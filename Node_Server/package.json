@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mathjax-node-sre": "^4.0.0-beta.1",
+    "mathjax-node-svg2png": "^2.0.0"
   }
 }
